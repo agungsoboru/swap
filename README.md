@@ -1,1 +1,1 @@
-# swap
+# script untuk buat swap
